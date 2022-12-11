@@ -1,0 +1,10 @@
+2012160 - Joao Victor Cesa Andrade
+
+
+Sensores Ópticos, ou Fotoelétricos, são utilizados para captar estímulos luminosos - luz e sombra - e transformá-los em sinais elétricos que são repassados ao sistema.
+
+Ex: Sensores Capacitivos DC 3 Fios, Sensores Magnéticos BMF 307, Sensor Ótico BOD 63M.
+
+Sensores Capacitativos são utilizados para identificar peças e partes de objetos, dentre essas partes podem ser identificados materiais não metálicos como madeira, vidro, derivados sintéticos, assim como plásticos e resinas. Além de identificar esses materiais também é capaz de detectar o nível de líquidos.
+
+Ex: Sensores Capacitivos Tubulares Namur, Sensores Capacitivos Tubulares, Sensores Capacitivos Não Tubulares.
