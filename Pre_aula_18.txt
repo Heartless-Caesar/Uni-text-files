@@ -1,3 +1,11 @@
 2012160 - Joao Victor Cesa Andrade
 
 A diferença entre os protocolos 6LoWPAN com o ZigBee
+
+
+O 6LoWPAN é um protocolo de comunicação que utiliza o IPv6 e Low-power Wireless Personal Area Networks(ou, Comunicação sem fio em redes de Domínio Pessoal de baixo poder elétrico). Este por sua vez permite pequenos dispositivos com processamento limitado a transmitir informação por redes sem fio utilizando um protocolo de internet. 
+
+
+ZigBee é um protocolo de comunicação assim como o 6LoWPAN, contudo é mais antigo que o último porém é mais robusto. Foi desenvolvido para aplicações de baixa transmissão de dados e com pouco poder elétrico. É o protocolo mais popular em termos de protocolos de comunicação sem fio em aplicações de baixa utilização de poder elétrico e baixo custo. Típicamente utilizado em Low-power Wireless Personal Area Networks(ou, Comunicação sem fio em redes de Domínio Pessoal de baixo poder elétrico) ou em wireless mesh para operar em maiores distâncias.
+
+O ZigBee apresenta ser mais robusto em termos de segurança dos dados, no entanto o 6LowPAN apresenta maior compatibilidade com outros protocolos visto que o ZigBee foi desenvolvido com base no padrão IEEE 802.15.4. Outro fator que o ZigBee tem mais vantagem é o fato de os dispositivos que utilizam o mesmo podem ficar suspensos no sleep mode majoritariamente, com isso aumentando o tempo de vida da bateria dos dispositivos.
