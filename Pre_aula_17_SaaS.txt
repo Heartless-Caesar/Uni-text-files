@@ -1,6 +1,7 @@
 2012160 - Joao Victor Cesa Andrade
 
-Após a execução de uma imagem (criação de um conteiner) é possível "matar" esse conteiner caso algum evento errado aconteça durante a execução desse? Se sim qual seria o comando Docker?
+Após a execução de uma imagem (criação de um conteiner) é possível "matar" esse conteiner caso algum evento 
+errado aconteça durante a execução desse? Se sim qual seria o comando Docker?
 
 Para "matar" um container Docker é necessário pausar a execução do container com o comando
 "sudo docker paus   e <ID CONTAINER>".
