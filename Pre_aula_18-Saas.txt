@@ -1,0 +1,56 @@
+2012160 - Joao Victor Cesa Andrade
+
+Docker é um software que disponibiliza ferramentas que facilitam o empacotamento e execução de aplicações em containers.
+
+Um container é um forma de executar uma aplicação, em que esta está contida no container, com isso a isolando de outras aplicações no computador.
+
+As tecnolgoias associadas ao Docker sendo:
+
+- Docker Daemon: É a parte do Docker que realiza a comunicação entre os diferentes compoenentes assim como outros daemons para garantir a operação dos serviços do Docker;
+
+- Docker Engine: É uma ferramenta do Docker que funciona como uma aplicação cliente-servidor que por sua vez comunica com o Docker Daemon e também funciona como uma interface de linha de comando(CLI) do Docker;
+
+- Docker container image format: Esse termo se refere ao conjunto de formatos compatíveis com os containers do Docker;
+
+- Dockerfile: Arquivo de configuração de determinado container ou containers;
+
+- Docker Hub: Site em que é possível verificar as imagens existentes para serem utilizadas em containers;
+
+- Docker Compose: Utilizada para configurar e executar containers;
+
+- Docker Swarm mode: É uma ferramenta utilizada para gerenciar containers em múltiplos servidores.
+
+Dentre essas aplicações há o Docker Swarm mode que serve
+para gerenciar containers sendo executados em múltiplos servidores.
+
+/*************************************************************/
+
+Kubernetes por sua vez é um conjunto de primitivos utilizados para desenvolver aplicações, estes tendo os termos "Pods", "Services" e "Deployments" associados a eles.
+
+Algumas das funcionalidades do Kubernetes são:
+
+- Container scheduling: Consegue alocar um container em um servidor que terá melhor desempenho de acordo com a utilização de cada um.
+
+- Gerenciamento de Container: Capaz de iniciar, pausar e reiniciar containers;
+
+- Containers auto-escaláveis: É capaz de inicializar outro container com a mesma configuração que um atual se a aplicação de um container atual está com uma carga muito alta para processar e posteriormente pausar este segundo para que recursos não sejam desperdiçados;
+
+- Comunicação em rede: Containers são capaz de comunicar entre si assim balanceando a carga entre eles;
+
+- Armazenamento: Tem acesso ao disco de armazenamento para aplicações que necessitam;
+
+- Logs e monitoramento: Apresenta simplicidade para registar e verificar logs de cada container e verificar seu status;
+
+- Segurança: É possível estabelecer regras comuns e determinar restrições de segurança nos containers;
+
+/*************************************************************/
+
+O Kubernetes é bem similar ao Docker Swarm mode no entanto apresenta algumas diferenças:
+
+- Possibilidade de gerenciar containers presentes em serviços de nuvem como AWS;
+
+- Aceita qualquer formato de runtime de containers;
+
+- Tem maior escalabilidade, disponibilizando mais recursos para processamento caso seja necessário
+
+- Há várias distribuições de Kubernetes, algumas sendo Kubernetes padrão, OpenShift, VMware Tanzu, k3s, microk8s
