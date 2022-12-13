@@ -1,1 +1,134 @@
-<mxfile host="app.diagrams.net" modified="2022-12-13T00:55:21.695Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="_nrBOmbeMtQD73sfSf2V" type="github"><diagram id="A7MgQAcXeBGcEgLHZ-eJ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-13T01:29:39.144Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="LBzTGXbHUUzyBaye2nOI" type="github">
+  <diagram id="hr68gZ4kQR_CR2Rh-l37" name="Page-1">
+    <mxGraphModel dx="1014" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="b7yFQcfbYks84lVepBm6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="b7yFQcfbYks84lVepBm6-1" target="b7yFQcfbYks84lVepBm6-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yFQcfbYks84lVepBm6-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b7yFQcfbYks84lVepBm6-1" target="b7yFQcfbYks84lVepBm6-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yFQcfbYks84lVepBm6-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b7yFQcfbYks84lVepBm6-1" target="b7yFQcfbYks84lVepBm6-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="425" y="680" />
+              <mxPoint x="118" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b7yFQcfbYks84lVepBm6-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b7yFQcfbYks84lVepBm6-1" target="b7yFQcfbYks84lVepBm6-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="425" y="1010" />
+              <mxPoint x="1230" y="1010" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b7yFQcfbYks84lVepBm6-1" value="Expo CLI&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yFQcfbYks84lVepBm6-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b7yFQcfbYks84lVepBm6-2" target="b7yFQcfbYks84lVepBm6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yFQcfbYks84lVepBm6-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b7yFQcfbYks84lVepBm6-2" target="b7yFQcfbYks84lVepBm6-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yFQcfbYks84lVepBm6-2" value="Plataforma para criar aplicações mobile em RN&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="590" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yFQcfbYks84lVepBm6-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b7yFQcfbYks84lVepBm6-4" target="b7yFQcfbYks84lVepBm6-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yFQcfbYks84lVepBm6-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b7yFQcfbYks84lVepBm6-4" target="b7yFQcfbYks84lVepBm6-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yFQcfbYks84lVepBm6-4" value="Criar, publicar e gerenciar aplicações" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="340" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yFQcfbYks84lVepBm6-8" value="Permite distribuir aplicações móveis sem a necessidade de XCode ou Android Studio&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="820" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yFQcfbYks84lVepBm6-10" value="Permite realizar atualizações de forma semelhante a pipelines CI/CD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="50" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yFQcfbYks84lVepBm6-12" value="Aplicações compartilham mesmo UI para webview e mobile&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="40" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yFQcfbYks84lVepBm6-14" value="Oferece flexibilidade caso a aplicação tenha que ser migrada para o React-native CLI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="480" width="225" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yFQcfbYks84lVepBm6-17" value="Multiplataforma, podendo ser desenvolvido em Windows, Linux e MacOS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="815" width="175" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yFQcfbYks84lVepBm6-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b7yFQcfbYks84lVepBm6-19" target="b7yFQcfbYks84lVepBm6-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yFQcfbYks84lVepBm6-19" value="Utilização de recursos nativos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yFQcfbYks84lVepBm6-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b7yFQcfbYks84lVepBm6-21" target="b7yFQcfbYks84lVepBm6-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yFQcfbYks84lVepBm6-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="b7yFQcfbYks84lVepBm6-21" target="b7yFQcfbYks84lVepBm6-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yFQcfbYks84lVepBm6-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b7yFQcfbYks84lVepBm6-21" target="b7yFQcfbYks84lVepBm6-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1330" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b7yFQcfbYks84lVepBm6-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b7yFQcfbYks84lVepBm6-21" target="b7yFQcfbYks84lVepBm6-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1330" y="540" />
+              <mxPoint x="1330" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b7yFQcfbYks84lVepBm6-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b7yFQcfbYks84lVepBm6-21" target="b7yFQcfbYks84lVepBm6-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yFQcfbYks84lVepBm6-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b7yFQcfbYks84lVepBm6-21" target="b7yFQcfbYks84lVepBm6-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yFQcfbYks84lVepBm6-21" value="Dependem de API &#39;s específicos para interagir com cada componente" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="640" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yFQcfbYks84lVepBm6-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b7yFQcfbYks84lVepBm6-23" target="b7yFQcfbYks84lVepBm6-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yFQcfbYks84lVepBm6-23" value="Camera : expo-camera" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="640" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yFQcfbYks84lVepBm6-25" value="Localização: expo-localization" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="480" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yFQcfbYks84lVepBm6-27" value="Reconhecimento facial : expo-face-detector" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="290" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yFQcfbYks84lVepBm6-29" value="TouchID e FaceID: expo-local-authentication" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="120" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yFQcfbYks84lVepBm6-31" value="Acesso os arquivos do dispositivo: expo-file-system" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="260" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yFQcfbYks84lVepBm6-33" value="Sensores: expo-sensors" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="640" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yFQcfbYks84lVepBm6-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b7yFQcfbYks84lVepBm6-35" target="b7yFQcfbYks84lVepBm6-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yFQcfbYks84lVepBm6-35" value="Utilizado em aplicações que tem como foco ou funcionalidade a utilização de imagens" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="635" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yFQcfbYks84lVepBm6-37" value="Basta, em uma página, já ter o recurso de ter a câmera ativada ou ter um botão para ativar a mesma, ambos por meio de um componente renderizado em uma página. Com isso em conjunto com a funcionalidade de acessar os arquivos do dispositivo as imagens registradas podem ser salvas." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="805" width="330" height="135" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
